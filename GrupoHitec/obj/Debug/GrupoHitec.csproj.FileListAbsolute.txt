@@ -1,0 +1,5 @@
+C:\Users\cmontes\Documents\Visual Studio 2013\Projects\GrupoHitec\GrupoHitec\bin\Debug\GrupoHitec.dll
+C:\Users\cmontes\Documents\Visual Studio 2013\Projects\GrupoHitec\GrupoHitec\bin\Debug\GrupoHitec.pdb
+C:\Users\cmontes\Documents\Visual Studio 2013\Projects\GrupoHitec\GrupoHitec\obj\Debug\GrupoHitec.dll
+C:\Users\cmontes\Documents\Visual Studio 2013\Projects\GrupoHitec\GrupoHitec\obj\Debug\GrupoHitec.pdb
+C:\Users\cmontes\Documents\Visual Studio 2013\Projects\GrupoHitec\GrupoHitec\obj\Debug\GrupoHitec.csprojResolveAssemblyReference.cache
